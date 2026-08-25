@@ -1,6 +1,6 @@
 # Delphos Labs - Vulnerability Disclosures
 
-Public vulnerability disclosures and proof-of-concept exploits from [Delphos Labs](https://delphos.io).
+Public vulnerability disclosures and proof-of-concept exploits from [Delphos Labs](https://delphoslabs.com/).
 
 ## Disclosures
 
